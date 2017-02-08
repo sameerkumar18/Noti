@@ -14,10 +14,11 @@ Noti is your little companion living in your mac menu, relaying any notification
 Get the [latest .dmg here](https://github.com/jariz/Noti/releases/latest).  
 
 ###brew cask
-Or, simply use [homebrew cask](https://github.com/caskroom/homebrew-cask/blob/master/README.md) and install it with a single command:  
+Or, simply use [homebrew cask](https://github.com/caskroom/homebrew-cask/blob/master/README.md) and install it with a single command :  
 ```
 brew cask install noti
 ```
+(homebrew must be updated, if not  ```brew update```)
 
 
 ##Features
